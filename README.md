@@ -1,4 +1,4 @@
-# GraphanaDashBoardMySql
+# GraphanaDashBoard
 Graphana Dashboard to display Stocks Data <br />
 -> Used for data monitoring, data visualization <br />
 -> Allowed to bring many data sources together at one dashboard <br />
